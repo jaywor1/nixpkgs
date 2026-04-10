@@ -12085,6 +12085,12 @@
     githubId = 114126812;
     name = "Jaysa Maria Garcia";
   };
+  jaywor1 = {
+    email = "misa.javor@gmail.com";
+    github = "jaywor1";
+    githubId = 103755136;
+    name = "Michal Javor";
+  };
   jb55 = {
     email = "jb55@jb55.com";
     github = "jb55";
